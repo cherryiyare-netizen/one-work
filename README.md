@@ -1,2 +1,2 @@
-#. Kosy Home
-A home just for you!
+# Kozy Home
+This is a website for Kosy Estates A home for You! Welcome!
